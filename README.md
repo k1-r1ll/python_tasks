@@ -7,3 +7,8 @@
 
 ## 2. File ‘url_title_counter’
 **Goal:** take a log file, check the whole content, take and count main themes/topics/titles in the log items, show message frequency according to the highlighted titles.
+<br>
+<br>
+
+## 3. File ‘word_combination_counter’
+**Goal:** create a function that researches, how many words one can generate from the one given word. Any orthographic dictionary of the target language can be used. Test the function for word ‘коммуникация’.
