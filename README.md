@@ -5,5 +5,5 @@
 <br>
 <br>
 
-## 2. File ‘url_title_counte’
+## 2. File ‘url_title_counter’
 **Goal:** take a log file, check the whole content, take and count main themes/topics/titles in the log items, show message frequency according to the highlighted titles.
