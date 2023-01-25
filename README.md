@@ -16,6 +16,6 @@
 <br>
 
 ## 4. File ‘exploratory_data_analysis’
-**Goal:** build the first understanding of dataset; check the necessary distributions; check summaries (mean, dispersion, percentiles – 50%, 75%, 99%, mode), kurtosis and skew; symmetric confidence intervals and check the outliers.
+**Goal:** build the first understanding of dataset; check the necessary distributions; check summaries (mean, dispersion, percentiles – 50%, 75%, 99%, mode), kurtosis and skew, correlations, symmetric confidence intervals and possible outliers.
 <br>
 <br>
