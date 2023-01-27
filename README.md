@@ -28,6 +28,6 @@
 <br>
 
 ## 6. File ‘approximation_2’
-**Goal:** 1) with symPy find appropriate polinoms for data sets and then explore each result; 2) get MSE value lesse then given one.
+**Goal:** 1) with symPy find appropriate polinoms for data sets and then explore each result; 2) get MSE value less then given one.
 <br>
 <br>
