@@ -1,4 +1,4 @@
-# python_tasks
+# python_pet_projects
 
 ## 1. File ‘purchase_funnel’
 **Goal:** to analyse a click stream file; analyse data of payment confirmation page.
@@ -17,5 +17,17 @@
 
 ## 4. File ‘exploratory_data_analysis’
 **Goal:** build the first understanding of dataset; check the necessary distributions; check summaries (mean, dispersion, percentiles – 50%, 75%, 99%, mode), kurtosis and skew, correlations, symmetric confidence intervals and possible outliers.
+<br>
+<br>
+
+# python_math_tasks
+
+## 5. File ‘approximation_1’
+**Goal:** validate several approximation functions according to the received data
+<br>
+<br>
+
+## 6. File ‘approximation_2’
+**Goal:** 1) with symPy find appropriate polinoms for data sets and then explore each result; 2) get MSE value lesse then given one.
 <br>
 <br>
