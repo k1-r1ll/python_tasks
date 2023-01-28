@@ -23,7 +23,7 @@
 # python_math_tasks
 
 ## 5. File ‘approximation_1’
-**Goal:** validate several approximation functions according to the received data
+**Goal:** validate several approximation functions according to the received data.
 <br>
 <br>
 
