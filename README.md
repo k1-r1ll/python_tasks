@@ -31,3 +31,9 @@
 **Goal:** 1) with symPy find appropriate polinoms for data sets and then explore each result; 2) get MSE value less then given one.
 <br>
 <br>
+
+## 7. File ‘polynomial_interpolation’
+**Goal:** find polynomials which describe the following data sets using SymPy. Then study every polynomial: even/odd, zeroes, constancy intervals. Build the graphs. Show all the zeroes on the graphs.
+<br>
+<br>
+
