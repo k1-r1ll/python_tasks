@@ -20,19 +20,22 @@
 <br>
 <br>
 
+## 5. File ‘parsing_beautifulSoup’
+**Goal:** create a series of website parsing functions and get some data from a meme site (in a form of a dataframe).
+
 # python_math_tasks
 
-## 5. File ‘approximation_1’
+## 6. File ‘approximation_1’
 **Goal:** validate several approximation functions according to the received data.
 <br>
 <br>
 
-## 6. File ‘approximation_2’
+## 7. File ‘approximation_2’
 **Goal:** 1) with symPy find appropriate polinoms for data sets and then explore each result; 2) get MSE value less then given one.
 <br>
 <br>
 
-## 7. File ‘polynomial_interpolation’
+## 8. File ‘polynomial_interpolation’
 **Goal:** find polynomials which describe the following data sets using SymPy. Then study every polynomial: even/odd, zeroes, constancy intervals. Build the graphs. Show all the zeroes on the graphs.
 <br>
 <br>
