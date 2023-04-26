@@ -22,20 +22,27 @@
 
 ## 5. File ‘parsing_beautifulSoup’
 **Goal:** create a series of website parsing functions and get some data from a meme site (in a form of a dataframe).
+<br>
+<br>
+
+## 6. File ‘retention_and_sales_rate’
+**Goal:** EDA of log file – 1) checking and clearing google_log dataset; 2) retention metrics; 3) shopping activity analysis; 4) revenue analysis.
+<br>
+<br>
 
 # python_math_tasks
 
-## 6. File ‘approximation_1’
+## 7. File ‘approximation_1’
 **Goal:** validate several approximation functions according to the received data.
 <br>
 <br>
 
-## 7. File ‘approximation_2’
+## 8. File ‘approximation_2’
 **Goal:** 1) with symPy find appropriate polinoms for data sets and then explore each result; 2) get MSE value less then given one.
 <br>
 <br>
 
-## 8. File ‘polynomial_interpolation’
+## 9. File ‘polynomial_interpolation’
 **Goal:** find polynomials which describe the following data sets using SymPy. Then study every polynomial: even/odd, zeroes, constancy intervals. Build the graphs. Show all the zeroes on the graphs.
 <br>
 <br>
